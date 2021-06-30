@@ -10,4 +10,18 @@ img {
   
   button {
     margin: 20px;
+    
+  }
+
+  span {
+    color: green;
+  }
+
+  .main-div{
+      display: flex;
+      text-align: center;
+      flex-direction: column;
+      margin: 300px 30px;
+    
+      
   }
